@@ -1,0 +1,51 @@
+.fa-solid{
+    position: absolute;
+    padding-top: 12px;
+    padding-left: 3px;
+    
+}
+input{
+    padding-left: 25px;
+    width:300px;
+    height: 35px;
+    border-radius: 10px;
+    
+}
+
+.fa-regular{
+    position: absolute;
+    padding-top: 12px;
+    padding-left: 3px;
+}
+.table{
+    margin-left: 50px;
+    margin-right: 50px;
+    display: inline-block;
+    
+}
+
+.required{
+    color: red;
+}
+
+
+
+
+
+
+
+
+.table1  h1{
+    background-image: url(./background\ img.avif);
+    color: aliceblue;
+    height: 100px;
+    width: 100%;
+}
+
+h1{
+    padding-top: 100px;
+    padding-left: 100px;
+/* }
+body{
+    background-image: url(https://i.pinimg.com/736x/8c/98/99/8c98994518b575bfd8c949e91d20548b.jpg);
+} */
